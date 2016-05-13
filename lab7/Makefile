@@ -1,3 +1,6 @@
+
+sources =  zad1.c zad23.c
+
 programs = $(basename $(sources))
 objects = $(addsuffix .o, $(programs))
 
