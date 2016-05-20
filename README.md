@@ -16,12 +16,12 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 
 1. [Laboratorium 1](lab1) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/):
 
- 	* [x] [zad1.c](lab01/zad1.c)
-	* [x] [zad02.c](lab01/zad2.c)
-	* [x] [zad03.c](lab01/zad3.c)
-	* [x] [zad04.c](lab01/zad4.c)
-	* [x] [zad05.c](lab01/zad5.c)
-	* [x] [zad06.c](lab01/zad6.c)
+ 	* [x] [zad1.c](lab1/zad1.c)
+	* [x] [zad2.c](lab1/zad2.c)
+	* [x] [zad3.c](lab1/zad3.c)
+	* [x] [zad4.c](lab1/zad4.c)
+	* [x] [zad5.c](lab1/zad5.c)
+	* [x] [zad6.c](lab1/zad6.c)
 
 2. [Laboratorium 2](lab2) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs02/):
 
