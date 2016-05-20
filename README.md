@@ -28,7 +28,7 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
  	* [x] [zad0.c](lab2/zad0.c)
 	* [x] [zad1.c](lab2/zad1.c)
 	* [x] [zad2.c](lab2/zad2.c)
-	* [] [zad3.c](lab2/zad3.c)
+	* [ ] [zad3.c](lab2/zad3.c)
 
 3. [Laboratorium 3](lab3) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03/):
 
