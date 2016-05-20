@@ -16,6 +16,13 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 
 1. [Laboratorium 1](lab1) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/):
 
+ 	* [x] [zad1.c](lab01/zad1.c)
+	* [x] [zad02.c](lab01/zad2.c)
+	* [x] [zad03.c](lab01/zad3.c)
+	* [x] [zad04.c](lab01/zad4.c)
+	* [x] [zad05.c](lab01/zad5.c)
+	* [x] [zad06.c](lab01/zad6.c)
+
 2. [Laboratorium 2](lab2) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs02/):
 
 3. [Laboratorium 3](lab3) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03/):
@@ -33,3 +40,5 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 9. [Laboratorium 9](lab9) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/):
 
 10. [Laboratorium 10](lab10) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/):
+
+Zadania z PHP: http://sigma.ug.edu.pl/~mploski
