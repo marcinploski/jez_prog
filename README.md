@@ -39,15 +39,37 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 
 4. [Laboratorium 4](lab4) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04/):
 
+ 	* [x] [zad1.c](lab4/zad1.c)
+	* [x] [zad2.c](lab4/zad2.c)
+
 5. [Laboratorium 5](lab5) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs05/):
+
+ 	* [x] [zad1.c](lab5/zad1.c)
+	* [x] [zad2.c](lab5/zad2.c)
 
 6. [Laboratorium 6](lab6) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs06/):
 
+ 	* [x] [zad1.c](lab6/zad1.c)
+	* [ ] [zad2.c](lab6/zad2.c)
+	* [ ] [zad3.c](lab6/zad3.c)
+
 7. [Laboratorium 7](lab7) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs07/):
+
+ 	* [x] [zad1.c](lab7/zad1.c)
+	* [x] [zad2i3.c](lab7/zad23.c)
 
 8. [Laboratorium 8](lab8) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs08/):
 
+ 	* [x] [zad1.c](lab8/zad1.c)
+	* [x] [zad2.c](lab8/zad2.c)
+	* [x] [zad3.c](lab8/zad3.c)
+	* [x] [zad4.c](lab8/zad4.c)
+
 9. [Laboratorium 9](lab9) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/):
+
+ 	* [x] [zad1.c](lab9/zad1.php)
+	* [ ] [zad2.c](lab9/zad2.php)
+	* [x] [zad3.c](lab9/zad3.php)
 
 10. [Laboratorium 10](lab10) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/):
 
