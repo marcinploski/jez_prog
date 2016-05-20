@@ -21,7 +21,12 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 	* [ ] [zad3.c](lab2/zad3.c)
 
 3. [Laboratorium 3](lab3) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03/):
-	
+
+* [x] [zad1.c](lab3/zad1.c)
+* [x] [zad2.c](lab3/zad2.c)
+* [x] [zad3.c](lab3/zad3.c)
+* [ ] [zad4.c](lab3/zad4.c)
+
 |        TYP| ROZMIAR|                  MIN|                  MAX|       ZIARNO|  PRECYZJA|
 |-----------|--------|---------------------|---------------------|-------------|----------|
 |      short|       2|               -32768|                32767|             |          |
@@ -31,11 +36,6 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 |      float|       4|         1.175494e-38|         3.402823e+38| 1.192093e-07|         6|
 |     double|       8|        2.225074e-308|        1.797693e+308| 2.220446e-16|        15|
 |long double|      16|       3.362103e-4932|       1.189731e+4932| 1.084202e-19|        18|
-	
- 	* [x] [zad1.c](lab3/zad1.c)
-	* [x] [zad2.c](lab3/zad2.c)
-	* [x] [zad3.c](lab3/zad3.c)
-	* [ ] [zad4.c](lab3/zad4.c)
 
 4. [Laboratorium 4](lab4) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04/):
 
@@ -68,7 +68,7 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 9. [Laboratorium 9](lab9) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/):
 
  	* [x] [zad1.c](lab9/zad1.php)
-	* [ ] [zad2.c](lab9/zad2.php)
+	* [x] [zad2.c](lab9/zad2.php)
 	* [x] [zad3.c](lab9/zad3.php)
 
 10. [Laboratorium 10](lab10) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/):
