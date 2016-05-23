@@ -4,6 +4,14 @@ Wykład: [dr Stefan Sokołowski](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezPro
 
 Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 
+Ulubione zadania:
+
+* [x] [zad1.php](lab9/lab9_zad1.php)
+* [x] [zad2.php](lab9/lab9_zad2.php)
+* [x] [zad3.php](lab9/lab9_zad3.php)
+
+Mozna sprawdzic tutaj: http://sigma.ug.edu.pl/~mploski
+
 1. [Laboratorium 1](lab1) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs01/):
 
  	* [x] [zad1.c](lab1/zad1.c)
@@ -67,10 +75,6 @@ Laboratorium: [dr Włodzimierz Bzyl](http://wbzyl.inf.ug.edu.pl/c/)
 
 9. [Laboratorium 9](lab9) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs09/):
 
- 	* [x] [zad1.c](lab9/zad1.php)
-	* [x] [zad2.c](lab9/zad2.php)
-	* [x] [zad3.c](lab9/zad3.php)
+ 	* [x] [lab9](lab9)
 
 10. [Laboratorium 10](lab10) [(treść zadań)](http://sigma.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs10/):
-
-Zadania z PHP: http://sigma.ug.edu.pl/~mploski

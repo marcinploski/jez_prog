@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300,900&subset=latin,latin-ext);
+
+body {
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+a {
+  color: #000;
+  font-weight: 700;
+}
+
+a:hover {
+  color: #000;
+}
+
+.navbar-inverse {
+  background: #000;
+}
+
+.navbar-brand {
+  cursor: pointer;
+  text-transform: uppercase;
+  color: #C5C5C5;
+  font-weight: 400;
+}
+
+.navbar-brand span {
+  font-weight: 700;
+}
+
+.fa-github {
+  margin: 0 10px 0 0;
+}
+
+strong {
+  font-weight: 500;
+}
+
+.fa-heart {
+  color: #921D1D;
+  margin: 0 5px;
+}
+
+.list-group-item.active.list-group-header {
+  background-color: #000;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.well {
+  margin: 20px 0 0 0;
+}
